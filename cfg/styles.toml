@@ -1,0 +1,189 @@
+[document]
+[document.style]
+name='style_document'
+fontName='Baskerville'
+fontSize=12
+leading=16
+leftIndent=0
+rightIndent=0
+firstLineIndent=10
+alignment=0 
+spaceBefore=0
+spaceAfter=0
+[document.settings]
+newPageBefore = false
+newPageAfter = false
+newParagraphOnEndline = false
+blockSpaceBefore = 0
+blockSpaceAfter = 0
+
+[subtitle]
+[subtitle.style]
+name='style_subtitle'
+fontName='Baskerville'
+fontSize=14
+leading=16
+leftIndent=0
+rightIndent=0
+firstLineIndent=0
+alignment=1 
+spaceBefore=0
+spaceAfter=0
+[subtitle.settings]
+newPageBefore = false
+newPageAfter = false
+newParagraphOnEndline = false
+blockSpaceBefore = 5
+blockSpaceAfter = 20
+
+[title]
+[title.style]
+name='title'
+fontName='Baskerville-Bold'
+fontSize=23
+leading=10
+leftIndent=0
+rightIndent=0
+firstLineIndent=0
+alignment=1
+spaceBefore=0
+spaceAfter=20
+[title.settings]
+newPageBefore = true
+newPageAfter = false
+newParagraphOnEndline = false
+blockSpaceBefore = 0
+blockSpaceAfter = 0
+
+[prices]
+[prices.style]
+name='style_prices'
+fontName='Baskerville'
+fontSize=12
+leading=16
+leftIndent=20
+rightIndent=0
+firstLineIndent=10
+alignment=0 
+spaceBefore=0
+spaceAfter=0
+[prices.settings]
+newPageBefore = false
+newPageAfter = false
+newParagraphOnEndline = true
+blockSpaceBefore = 10
+blockSpaceAfter = 10
+
+[row1]
+[row1.style]
+name='style_row1'
+fontName='Baskerville'
+fontSize=12
+leading=16
+leftIndent=0
+rightIndent=0
+firstLineIndent=10
+alignment=1 
+spaceBefore=0
+spaceAfter=0
+[row1.settings]
+newPageBefore = false
+newPageAfter = false
+newParagraphOnEndline = false
+blockSpaceBefore = 15
+blockSpaceAfter = 5
+
+[row2]
+[row2.style]
+name='style_row2'
+fontName='Baskerville'
+fontSize=12
+leading=16
+leftIndent=0
+rightIndent=0
+firstLineIndent=10
+alignment=1
+spaceBefore=0
+spaceAfter=0
+[row2.settings]
+newPageBefore = false
+newPageAfter = false
+newParagraphOnEndline = false
+blockSpaceBefore = 0
+blockSpaceAfter = 0
+
+[row3]
+[row3.style]
+name='style_row3'
+fontName='Baskerville'
+fontSize=12
+leading=16
+leftIndent=0
+rightIndent=0
+firstLineIndent=10
+alignment=1
+spaceBefore=0
+spaceAfter=0
+[row3.settings]
+newPageBefore = false
+newPageAfter = false
+newParagraphOnEndline = false
+blockSpaceBefore = 0
+blockSpaceAfter = 0
+
+[tail]
+[tail.style]
+name='style_tail'
+fontName='Baskerville'
+fontSize=12
+leading=16
+leftIndent=50
+rightIndent=0
+firstLineIndent=10
+alignment=0
+spaceBefore=0
+spaceAfter=0
+[tail.settings]
+newPageBefore = false
+newPageAfter = false
+newParagraphOnEndline = false
+blockSpaceBefore = 0
+blockSpaceAfter = 15
+
+[announce]
+[announce.style]
+name='style_announce'
+fontName='Baskerville'
+fontSize=12
+leading=16
+leftIndent=20
+rightIndent=0
+firstLineIndent=10
+alignment=1
+spaceBefore=0
+spaceAfter=0
+[announce.settings]
+newPageBefore = false
+newPageAfter = false
+newParagraphOnEndline = true
+blockSpaceBefore = 10
+blockSpaceAfter = 10
+
+[note]
+[note.style]
+name='style_note'
+fontName='Baskerville'
+fontSize=8
+leading=16
+leftIndent=0
+rightIndent=0
+firstLineIndent=10
+alignment=0 
+spaceBefore=0
+spaceAfter=0
+[note.settings]
+newPageBefore = false
+newPageAfter = false
+newParagraphOnEndline = false
+blockSpaceBefore = 20
+blockSpaceAfter = 0
